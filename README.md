@@ -1,2 +1,2 @@
 # killjoys
-Killjoys Make Some Noise
+Make Some Noise
